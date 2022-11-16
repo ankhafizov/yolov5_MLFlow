@@ -1,3 +1,9 @@
+TO USE MLFLOW TYPE IN CONSOLE:
+
+`mlflow ui`
+
+
+
 <div align="center">
   <p>
     <a align="center" href="https://ultralytics.com/yolov5" target="_blank">
